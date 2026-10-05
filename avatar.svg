@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Lyra">
+  <defs>
+    <radialGradient id="cielo" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#2b2f77"/>
+      <stop offset="1" stop-color="#0b0d24"/>
+    </radialGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#cielo)"/>
+  <g stroke="#9db4ff" stroke-width="2.5" stroke-linecap="round" opacity=".75" fill="none">
+    <path d="M128 52 L104 104 L92 172 L140 196 L156 128 Z"/>
+    <path d="M104 104 L156 128"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="128" cy="52" r="11"/>
+    <circle cx="104" cy="104" r="6"/>
+    <circle cx="156" cy="128" r="6"/>
+    <circle cx="92" cy="172" r="6"/>
+    <circle cx="140" cy="196" r="6"/>
+  </g>
+  <circle cx="128" cy="52" r="20" fill="#cfd9ff" opacity=".25"/>
+</svg>
